@@ -1,0 +1,35 @@
+.title {
+    text-align:  center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .term {
+    border:  solid 5px black;
+    border-radius: 15px;
+    text-align:  center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 45%;
+    margin: auto;
+    margin-top: 100px;
+  }
+  
+  .role {
+    border: solid 5px black;
+    border-radius: 15px;
+    text-align:  center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 45%;
+    margin: auto;
+    margin-top: 100px;
+    display: none;
+  }
+  
+  .button {
+     text-align: center;
+     margin-top: 100px;
+     border-radius: 15px;
+  
+  }
+  button:hover {
+    transform: scale(2.1) ;
+  }
